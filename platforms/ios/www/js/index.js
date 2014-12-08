@@ -1,4 +1,4 @@
-var siteurl = 'http://pinboard.7';
+var siteurl = 'http://diaperpin.me.';
 var vid = 'pgv3';
 var fid = 'goIframe';
 var icon_spiner = 'fa-spinner';

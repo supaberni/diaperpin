@@ -26,6 +26,7 @@ body {
     font-size:12px;
     margin:0px;
     padding:0px;
+    height:100%; /* added height */
     width:100%;
     overflow-x: hidden;
 }
